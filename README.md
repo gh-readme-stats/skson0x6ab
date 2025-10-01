@@ -156,21 +156,21 @@
 
 ## 📓 Recent Release Note
 
-- 2025.10.01
+[2025.10.01]
 feat(navbar, sidebar & assets): update login buttons, team-switcher icon, projects, and favicon
-- Changed `package.json` name and description to lowercase `"playground"`
-- Updated `Navbar` login/sign-up buttons with `Button` components
-- Adjusted `StarRailRedeemCode` title from "Genshin Impact" → "Honkai: StarRail"
-- Updated `AppSidebar` team logo to `CodeSandboxLogoIcon`
-- Modified `TeamSwitcher` icon size and removed unnecessary background class
-- Added new favicon using Radix SVG
-- Changed site title and meta tags to "Playground"
-- Upgraded `tailwind-merge` from 2.4.0 → 2.6.0
-- Added `ReactIcon` and `BlackoguIcon` components for custom images
-- Added `codesandbox-logo.svg` for navbar logo
-- Updated Navbar links to use `cn` utility with `font-sans` and `font-semibold`
-- Moved some unused components to `notuse` folder
-- Added `utils/cn.ts` for conditional `className` merging with Tailwind
+ - Changed `package.json` name and description to lowercase `"playground"`
+ - Updated `Navbar` login/sign-up buttons with `Button` components
+ - Adjusted `StarRailRedeemCode` title from "Genshin Impact" → "Honkai: StarRail"
+ - Updated `AppSidebar` team logo to `CodeSandboxLogoIcon`
+ - Modified `TeamSwitcher` icon size and removed unnecessary background class
+ - Added new favicon using Radix SVG
+ - Changed site title and meta tags to "Playground"
+ - Upgraded `tailwind-merge` from 2.4.0 → 2.6.0
+ - Added `ReactIcon` and `BlackoguIcon` components for custom images
+ - Added `codesandbox-logo.svg` for navbar logo
+ - Updated Navbar links to use `cn` utility with `font-sans` and `font-semibold`
+ - Moved some unused components to `notuse` folder
+ - Added `utils/cn.ts` for conditional `className` merging with Tailwind
 
        
 <!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
