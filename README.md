@@ -132,7 +132,7 @@
     <tr>
       <td align="center" style="color: white;">Dashboard (Game news, Usedredeemcode management, NexonAPI)</td>
       <td align="center" style="color: white;">
-        <a href="https://skson0x6ab-dashboard-vue3.vercel.app/" target="_blank" style="color: white;">
+        <a href="https://skson0x6ab-react.vercel.app/" target="_blank" style="color: white;">
           <img src="https://www.svgrepo.com/show/324142/dashboard-graph-analytics-report.svg" width="30" height="30" alt="Vercel"/>
         </a>
       </td>
@@ -156,12 +156,22 @@
 
 ## 📓 Recent Release Note
 
-- 2025.01.16
-    1. feat(Vue): Change the multiple Hoyoverse game charts to a single chart
-    2. fix(Google Script): Fix issue of duplicate Discord webhook requests for the same redeem code 
-    3. feat(Google Script): When a new redeem code is found, it is added to the data store
-    4. feat(Google Script): When a redeem code is inactive, remove the corresponding entry from data store
-    5. feat(Vue): Change the API content update chart to a new redeem code table
+- 2025.10.01
+feat(navbar, sidebar & assets): update login buttons, team-switcher icon, projects, and favicon
+- Changed `package.json` name and description to lowercase `"playground"`
+- Updated `Navbar` login/sign-up buttons with `Button` components
+- Adjusted `StarRailRedeemCode` title from "Genshin Impact" → "Honkai: StarRail"
+- Updated `AppSidebar` team logo to `CodeSandboxLogoIcon`
+- Modified `TeamSwitcher` icon size and removed unnecessary background class
+- Added new favicon using Radix SVG
+- Changed site title and meta tags to "Playground"
+- Upgraded `tailwind-merge` from 2.4.0 → 2.6.0
+- Added `ReactIcon` and `BlackoguIcon` components for custom images
+- Added `codesandbox-logo.svg` for navbar logo
+- Updated Navbar links to use `cn` utility with `font-sans` and `font-semibold`
+- Moved some unused components to `notuse` folder
+- Added `utils/cn.ts` for conditional `className` merging with Tailwind
+
        
 <!--div><a href="https://www.acmicpc.net/user/skson0x6ab"><img src="https://img.shields.io/badge/My_BaekJoon-007BFF?style=flat"/></a></div>
 <!---
