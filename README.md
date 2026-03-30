@@ -124,7 +124,7 @@
 <!--div align="center"><a><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=skson0x6ab@gmail.com&size=wide" width="300"></a></div-->
 
 ## 🔧 My GitHub Stats
-<a><img src="https://github-readme-stats.vercel.app/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
+<a><img src="https://github-readme-stats.shion.dev/api?username=skson0x6ab&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue"></a>
 
 ## 🌐 Connections
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
